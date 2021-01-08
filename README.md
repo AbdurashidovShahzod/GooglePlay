@@ -1,4 +1,4 @@
-# GooglePlay UI google play
+# GooglePlay UI 
 
 ![photo_2021-01-08 05 57 21](https://user-images.githubusercontent.com/61906391/103961636-b6374b80-5176-11eb-80c4-326300c5662a.jpeg)
 
