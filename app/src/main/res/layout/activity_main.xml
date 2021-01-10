@@ -119,7 +119,7 @@
                     android:id="@+id/i1"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:padding="2dp"
+                    android:padding="3dp"
                     android:src="@drawable/ic_console" />
 
 
@@ -133,8 +133,8 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:src="@drawable/ic_app"
-                    android:padding="12dp"/>
+                    android:padding="12dp"
+                    android:src="@drawable/ic_app" />
             </LinearLayout>
 
 

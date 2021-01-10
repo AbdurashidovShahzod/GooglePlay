@@ -60,7 +60,7 @@
                     android:gravity="center|left"
                     android:text="@string/app_name"
                     android:textColor="@color/black"
-                    android:textSize="14sp"
+                    android:textSize="12sp"
                     android:textStyle="normal" />
 
                 <TextView
@@ -73,7 +73,7 @@
                     android:gravity="left|center"
                     android:text="xdfdsssfdfscx"
                     android:textColor="@color/black"
-                    android:textSize="14sp"
+                    android:textSize="12sp"
                     android:textStyle="normal" />
             </LinearLayout>
 
